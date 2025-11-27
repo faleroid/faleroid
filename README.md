@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3596F5&center=true&vCenter=true&width=435&lines=Technologies;" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=green&center=true&vCenter=true&width=435&lines=Technologies;" alt="Typing SVG" />
 </div>
 
 <div align="center">
