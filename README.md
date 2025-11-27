@@ -18,3 +18,7 @@
     </a>
   </p>
 </div>
+
+<div align="center">
+  <img src="https://github.com/faleroid/faleroid/blob/output/snake.svg" alt="snake contribution" />
+</div>
