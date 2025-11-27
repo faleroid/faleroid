@@ -29,6 +29,7 @@
 </div>
 
 ###
+<br>
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=fffff&center=true&vCenter=true&width=435&lines=Technologies;" alt="Typing SVG" />
@@ -67,6 +68,7 @@
 </div>
 
 ###
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faleroid/faleroid/output/pacman-contribution-graph-dark.svg">
