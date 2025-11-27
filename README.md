@@ -26,9 +26,7 @@
   </p>
 </div>
 
-<h2>
-  Tech
-</h2>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3596F5&center=true&vCenter=true&width=435&lines=Technologies+%F0%9F%91%8B;" alt="Typing SVG" />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
