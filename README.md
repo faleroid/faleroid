@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3596F5&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Naufal;Welcome+to+my+profile!" alt="Typing SVG" />
 
   <p>
-     I'm a passionate developer who loves exploring new technologies and building cool stuff.
+     I'm a passionate developer who loves exploring new technologies and building cool stuff
   </p>
 
   
